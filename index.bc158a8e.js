@@ -169,12 +169,12 @@
                                 })
                             }
                         }(), e = document.getElementById("second_container_inner_icon_video_content_mobile"), t = document.createElement("source"), Y.matches ? t.setAttribute("src", "assets/video/scene4_light_premiere.mp4") : t.setAttribute("src", "assets/video/scene4_dark_premiere.mp4"), e.appendChild(t), o = document.getElementById("third_container_inner_icon_video_content_mobile"), a = document.createElement("source"), Y.matches ? a.setAttribute("src", "assets/video/scene2_light_premiere.mp4") : a.setAttribute("src", "assets/video/scene2_dark_premiere.mp4"), o.appendChild(a), i = document.getElementById("fourth_container_inner_icon_video_content_mobile"), r = document.createElement("source"), Y.matches ? r.setAttribute("src", "assets/video/scene3_light_premiere.mp4") : r.setAttribute("src", "assets/video/scene3_dark_premiere.mp4"), i.appendChild(r), s().get("cookies", "accepted") ? function(e, t, o) {
-                            t.ChatraID = "bRth8u6fmZR6ZN8ym";
+                            t.chatraXXXXXID = "bRth8u6fmZR6ZN8ym";
                             var a = e.createElement("script");
                             t[o] = t[o] || function() {
                                 (t[o].q = t[o].q || []).push(arguments)
-                            }, a.async = !0, a.src = "https://call.chatra.io/chatra.js", e.head && e.head.appendChild(a)
-                        }(document, window, "Chatra") : H.play(), window.cookie_accepted = function() {
+                            }, a.async = !0, a.src = "https://call.chatraXXXXX.io/chatraXXXXX.js", e.head && e.head.appendChild(a)
+                        }(document, window, "chatraXXXXX") : H.play(), window.cookie_accepted = function() {
                             s().set("cookies", "accepted", {
                                 expires: 30
                             }), J.play()
@@ -232,12 +232,12 @@
                         display: "none"
                     }, 5.5), J.add((function() {
                         ! function(e, t, o) {
-                            t.ChatraID = "bRth8u6fmZR6ZN8ym";
+                            t.chatraXXXXXID = "bRth8u6fmZR6ZN8ym";
                             var a = e.createElement("script");
                             t[o] = t[o] || function() {
                                 (t[o].q = t[o].q || []).push(arguments)
-                            }, a.async = !0, a.src = "https://call.chatra.io/chatra.js", e.head && e.head.appendChild(a)
-                        }(document, window, "Chatra")
+                            }, a.async = !0, a.src = "https://call.chatraXXXXX.io/chatraXXXXX.js", e.head && e.head.appendChild(a)
+                        }(document, window, "chatraXXXXX")
                     }), null, 5.5);
                     var K = _.p8.timeline({
                         id: "gsap_teaser_video_sound_toggle",
@@ -1231,12 +1231,12 @@
                                     })
                                 }
                             }(), e = document.getElementById("second_container_inner_icon_video_content_desktop"), t = document.createElement("source"), Y.matches ? t.setAttribute("src", "assets/video/scene4_light_premiere.mp4") : t.setAttribute("src", "assets/video/scene4_dark_premiere.mp4"), e.appendChild(t), o = document.getElementById("third_container_inner_icon_video_content_desktop"), a = document.createElement("source"), Y.matches ? a.setAttribute("src", "assets/video/scene2_light_premiere.mp4") : a.setAttribute("src", "assets/video/scene2_dark_premiere.mp4"), o.appendChild(a), i = document.getElementById("fourth_container_inner_icon_video_content_desktop"), r = document.createElement("source"), Y.matches ? r.setAttribute("src", "assets/video/scene3_light_premiere.mp4") : r.setAttribute("src", "assets/video/scene3_dark_premiere.mp4"), i.appendChild(r), s().get("cookies", "accepted") ? function(e, t, o) {
-                                t.ChatraID = "bRth8u6fmZR6ZN8ym";
+                                t.chatraXXXXXID = "bRth8u6fmZR6ZN8ym";
                                 var a = e.createElement("script");
                                 t[o] = t[o] || function() {
                                     (t[o].q = t[o].q || []).push(arguments)
-                                }, a.async = !0, a.src = "https://call.chatra.io/chatra.js", e.head && e.head.appendChild(a)
-                            }(document, window, "Chatra") : de.play(), window.cookie_accepted = function() {
+                                }, a.async = !0, a.src = "https://call.chatraXXXXX.io/chatraXXXXX.js", e.head && e.head.appendChild(a)
+                            }(document, window, "chatraXXXXX") : de.play(), window.cookie_accepted = function() {
                                 s().set("cookies", "accepted", {
                                     expires: 30
                                 }), ye.play()
@@ -1309,12 +1309,12 @@
                             display: "none"
                         }, 5.5), ye.add((function() {
                             ! function(e, t, o) {
-                                t.ChatraID = "bRth8u6fmZR6ZN8ym";
+                                t.chatraXXXXXID = "bRth8u6fmZR6ZN8ym";
                                 var a = e.createElement("script");
                                 t[o] = t[o] || function() {
                                     (t[o].q = t[o].q || []).push(arguments)
-                                }, a.async = !0, a.src = "https://call.chatra.io/chatra.js", e.head && e.head.appendChild(a)
-                            }(document, window, "Chatra")
+                                }, a.async = !0, a.src = "https://call.chatraXXXXX.io/chatraXXXXX.js", e.head && e.head.appendChild(a)
+                            }(document, window, "chatraXXXXX")
                         }), null, 5.5);
                         var le = _.p8.timeline({
                             id: "gsap_teaser_video_sound_toggle",
@@ -3152,88 +3152,88 @@
                                 }
                             });
                             x.to(".services", {
-                                duration: 20,
-                                ease: "power3.inOut"
-                            }, 0), x.fromTo(".lottie_heart", {
-                                y: 100
-                            }, {
-                                opacity: 1,
-                                y: 0,
-                                duration: 20,
-                                ease: "power3.inOut"
-                            }, 7), x.fromTo(".laptop_anim_upper_inner_font", {
-                                y: 100
-                            }, {
-                                opacity: 1,
-                                y: 0,
-                                duration: 20,
-                                ease: "power3.inOut"
-                            }, 10), x.add((function() {
-                                document.getElementById("heart_lottie").play()
-                            }), null, 15), x.to(".lottie_heart", {
-                                y: -100,
-                                opacity: 0,
-                                duration: 20,
-                                ease: "power3.inOut"
-                            }, 45), x.to(".laptop_anim_upper_inner_font", {
-                                y: -100,
-                                opacity: 0,
-                                duration: 20,
-                                ease: "power3.inOut"
-                            }, 48), x.fromTo("#laptop_anim_inner_canvas", {
-                                y: 50
-                            }, {
-                                y: -50,
-                                opacity: 1,
-                                duration: 5,
-                                ease: "power3.inOut"
-                            }, 10), x.to(re, {
-                                duration: 60,
-                                frame: 194,
-                                snap: "frame",
-                                onUpdate: ee
-                            }, 63), x.to("#laptop_anim_inner_canvas", {
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 110), x.to(".laptop_anim_upper_inner_second", {
-                                opacity: 1,
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 110), x.fromTo("#laptop_anim_upper_inner_second_logo", {
-                                y: 100
-                            }, {
-                                y: 0,
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 110), x.fromTo(".laptop_anim_upper_inner_second_logo_svg", {
-                                drawSVG: "0%"
-                            }, {
-                                drawSVG: "100%",
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 120), x.to(".laptop_anim_upper_inner_second", {
-                                y: -300,
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 160), 
-                            // x.to(".laptop_anim_inner", {
-                            //     y: -300,
-                            //     duration: 40,
-                            //     ease: "power3.inOut"
-                            // }, 160),
-                             x.to(".laptop_anim_upper_inner_second", {
-                                opacity: 0,
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 160), x.fromTo(".laptop_anim_upper_inner_third_font", {
-                                y: 150,
-                                opacity: 0
-                            }, {
-                                y: 0,
-                                opacity: 1,
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 165);
+                                    duration: 20,
+                                    ease: "power3.inOut"
+                                }, 0), x.fromTo(".lottie_heart", {
+                                    y: 100
+                                }, {
+                                    opacity: 1,
+                                    y: 0,
+                                    duration: 20,
+                                    ease: "power3.inOut"
+                                }, 7), x.fromTo(".laptop_anim_upper_inner_font", {
+                                    y: 100
+                                }, {
+                                    opacity: 1,
+                                    y: 0,
+                                    duration: 20,
+                                    ease: "power3.inOut"
+                                }, 10), x.add((function() {
+                                    document.getElementById("heart_lottie").play()
+                                }), null, 15), x.to(".lottie_heart", {
+                                    y: -100,
+                                    opacity: 0,
+                                    duration: 20,
+                                    ease: "power3.inOut"
+                                }, 45), x.to(".laptop_anim_upper_inner_font", {
+                                    y: -100,
+                                    opacity: 0,
+                                    duration: 20,
+                                    ease: "power3.inOut"
+                                }, 48), x.fromTo("#laptop_anim_inner_canvas", {
+                                    y: 50
+                                }, {
+                                    y: -50,
+                                    opacity: 1,
+                                    duration: 5,
+                                    ease: "power3.inOut"
+                                }, 10), x.to(re, {
+                                    duration: 60,
+                                    frame: 194,
+                                    snap: "frame",
+                                    onUpdate: ee
+                                }, 63), x.to("#laptop_anim_inner_canvas", {
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 110), x.to(".laptop_anim_upper_inner_second", {
+                                    opacity: 1,
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 110), x.fromTo("#laptop_anim_upper_inner_second_logo", {
+                                    y: 100
+                                }, {
+                                    y: 0,
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 110), x.fromTo(".laptop_anim_upper_inner_second_logo_svg", {
+                                    drawSVG: "0%"
+                                }, {
+                                    drawSVG: "100%",
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 120), x.to(".laptop_anim_upper_inner_second", {
+                                    y: -300,
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 160),
+                                // x.to(".laptop_anim_inner", {
+                                //     y: -300,
+                                //     duration: 40,
+                                //     ease: "power3.inOut"
+                                // }, 160),
+                                x.to(".laptop_anim_upper_inner_second", {
+                                    opacity: 0,
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 160), x.fromTo(".laptop_anim_upper_inner_third_font", {
+                                    y: 150,
+                                    opacity: 0
+                                }, {
+                                    y: 0,
+                                    opacity: 1,
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 165);
                             // var k = _.p8.timeline({
                             //     id: "laptop_anim_second",
                             //     scrollTrigger: {
@@ -3245,25 +3245,25 @@
                             //     }
                             // });
                             k.fromTo(".laptop_anim_upper_inner_third_subhead", {
-                                opacity: 0,
-                                y: 100
-                            }, {
-                                y: 0,
-                                opacity: 1,
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 0), k.to("body", {
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 30), 
-                            // k.to(".laptop_anim_inner", {
-                            //     duration: 20,
-                            //     ease: "power3.inOut"
-                            // }, 20),
-                             k.to(".laptop_anim_upper_inner_third_subhead", {
-                                duration: 40,
-                                ease: "power3.inOut"
-                            }, 30);
+                                    opacity: 0,
+                                    y: 100
+                                }, {
+                                    y: 0,
+                                    opacity: 1,
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 0), k.to("body", {
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 30),
+                                // k.to(".laptop_anim_inner", {
+                                //     duration: 20,
+                                //     ease: "power3.inOut"
+                                // }, 20),
+                                k.to(".laptop_anim_upper_inner_third_subhead", {
+                                    duration: 40,
+                                    ease: "power3.inOut"
+                                }, 30);
                             var j = _.p8.timeline({
                                 id: "aspects_second_l",
                                 scrollTrigger: {
@@ -3636,12 +3636,12 @@
                                     })
                                 }
                             }(), s().get("cookies", "accepted") ? function(e, t, o) {
-                                t.ChatraID = "bRth8u6fmZR6ZN8ym";
+                                t.chatraXXXXXID = "bRth8u6fmZR6ZN8ym";
                                 var a = e.createElement("script");
                                 t[o] = t[o] || function() {
                                     (t[o].q = t[o].q || []).push(arguments)
-                                }, a.async = !0, a.src = "https://call.chatra.io/chatra.js", e.head && e.head.appendChild(a)
-                            }(document, window, "Chatra") : Le.play(), window.cookie_accepted = function() {
+                                }, a.async = !0, a.src = "https://call.chatraXXXXX.io/chatraXXXXX.js", e.head && e.head.appendChild(a)
+                            }(document, window, "chatraXXXXX") : Le.play(), window.cookie_accepted = function() {
                                 s().set("cookies", "accepted", {
                                     expires: 30
                                 }), Ae.play()
@@ -3839,12 +3839,12 @@
                         display: "none"
                     }, 5.5), Ae.add((function() {
                         ! function(e, t, o) {
-                            t.ChatraID = "bRth8u6fmZR6ZN8ym";
+                            t.chatraXXXXXID = "bRth8u6fmZR6ZN8ym";
                             var a = e.createElement("script");
                             t[o] = t[o] || function() {
                                 (t[o].q = t[o].q || []).push(arguments)
-                            }, a.async = !0, a.src = "https://call.chatra.io/chatra.js", e.head && e.head.appendChild(a)
-                        }(document, window, "Chatra")
+                            }, a.async = !0, a.src = "https://call.chatraXXXXX.io/chatraXXXXX.js", e.head && e.head.appendChild(a)
+                        }(document, window, "chatraXXXXX")
                     }), null, 5.5);
                     var Pe = _.p8.timeline({
                         id: "gsap_teaser_video_sound_toggle",
@@ -5686,88 +5686,88 @@
                             }
                         });
                         x.to(".services", {
-                            duration: 20,
-                            ease: "power3.inOut"
-                        }, 0), x.fromTo(".lottie_heart", {
-                            y: 100
-                        }, {
-                            opacity: 1,
-                            y: 0,
-                            duration: 20,
-                            ease: "power3.inOut"
-                        }, 7), x.fromTo(".laptop_anim_upper_inner_font", {
-                            y: 100
-                        }, {
-                            opacity: 1,
-                            y: 0,
-                            duration: 20,
-                            ease: "power3.inOut"
-                        }, 10), x.add((function() {
-                            document.getElementById("heart_lottie").play()
-                        }), null, 15), x.to(".lottie_heart", {
-                            y: -100,
-                            opacity: 0,
-                            duration: 20,
-                            ease: "power3.inOut"
-                        }, 45), x.to(".laptop_anim_upper_inner_font", {
-                            y: -100,
-                            opacity: 0,
-                            duration: 20,
-                            ease: "power3.inOut"
-                        }, 48), x.fromTo("#laptop_anim_inner_canvas", {
-                            y: 50
-                        }, {
-                            y: -50,
-                            opacity: 1,
-                            duration: 20,
-                            ease: "power3.inOut"
-                        }, 60), x.to(Ge, {
-                            duration: 60,
-                            frame: 194,
-                            snap: "frame",
-                            onUpdate: we
-                        }, 63), x.to("#laptop_anim_inner_canvas", {
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 110), x.to(".laptop_anim_upper_inner_second", {
-                            opacity: 1,
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 110), x.fromTo("#laptop_anim_upper_inner_second_logo", {
-                            y: 100
-                        }, {
-                            y: 0,
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 110), x.fromTo(".laptop_anim_upper_inner_second_logo_svg", {
-                            drawSVG: "0%"
-                        }, {
-                            drawSVG: "100%",
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 120), x.to(".laptop_anim_upper_inner_second", {
-                            y: -300,
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 160), 
-                        // x.to(".laptop_anim_inner", {
-                        //     y: -300,
-                        //     duration: 40,
-                        //     ease: "power3.inOut"
-                        // }, 160),
-                         x.to(".laptop_anim_upper_inner_second", {
-                            opacity: 0,
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 160), x.fromTo(".laptop_anim_upper_inner_third_font", {
-                            y: 150,
-                            opacity: 0
-                        }, {
-                            y: 0,
-                            opacity: 1,
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 165);
+                                duration: 20,
+                                ease: "power3.inOut"
+                            }, 0), x.fromTo(".lottie_heart", {
+                                y: 100
+                            }, {
+                                opacity: 1,
+                                y: 0,
+                                duration: 20,
+                                ease: "power3.inOut"
+                            }, 7), x.fromTo(".laptop_anim_upper_inner_font", {
+                                y: 100
+                            }, {
+                                opacity: 1,
+                                y: 0,
+                                duration: 20,
+                                ease: "power3.inOut"
+                            }, 10), x.add((function() {
+                                document.getElementById("heart_lottie").play()
+                            }), null, 15), x.to(".lottie_heart", {
+                                y: -100,
+                                opacity: 0,
+                                duration: 20,
+                                ease: "power3.inOut"
+                            }, 45), x.to(".laptop_anim_upper_inner_font", {
+                                y: -100,
+                                opacity: 0,
+                                duration: 20,
+                                ease: "power3.inOut"
+                            }, 48), x.fromTo("#laptop_anim_inner_canvas", {
+                                y: 50
+                            }, {
+                                y: -50,
+                                opacity: 1,
+                                duration: 20,
+                                ease: "power3.inOut"
+                            }, 60), x.to(Ge, {
+                                duration: 60,
+                                frame: 194,
+                                snap: "frame",
+                                onUpdate: we
+                            }, 63), x.to("#laptop_anim_inner_canvas", {
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 110), x.to(".laptop_anim_upper_inner_second", {
+                                opacity: 1,
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 110), x.fromTo("#laptop_anim_upper_inner_second_logo", {
+                                y: 100
+                            }, {
+                                y: 0,
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 110), x.fromTo(".laptop_anim_upper_inner_second_logo_svg", {
+                                drawSVG: "0%"
+                            }, {
+                                drawSVG: "100%",
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 120), x.to(".laptop_anim_upper_inner_second", {
+                                y: -300,
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 160),
+                            // x.to(".laptop_anim_inner", {
+                            //     y: -300,
+                            //     duration: 40,
+                            //     ease: "power3.inOut"
+                            // }, 160),
+                            x.to(".laptop_anim_upper_inner_second", {
+                                opacity: 0,
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 160), x.fromTo(".laptop_anim_upper_inner_third_font", {
+                                y: 150,
+                                opacity: 0
+                            }, {
+                                y: 0,
+                                opacity: 1,
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 165);
                         // var k = _.p8.timeline({
                         //     id: "laptop_anim_second",
                         //     scrollTrigger: {
@@ -5779,25 +5779,25 @@
                         //     }
                         // });
                         k.fromTo(".laptop_anim_upper_inner_third_subhead", {
-                            opacity: 0,
-                            y: 100
-                        }, {
-                            y: 0,
-                            opacity: 1,
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 0), k.to("body", {
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 30),
-                        //  k.to(".laptop_anim_inner", {
-                        //     duration: 20,
-                        //     ease: "power3.inOut"
-                        // }, 20),
-                         k.to(".laptop_anim_upper_inner_third_subhead", {
-                            duration: 40,
-                            ease: "power3.inOut"
-                        }, 30);
+                                opacity: 0,
+                                y: 100
+                            }, {
+                                y: 0,
+                                opacity: 1,
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 0), k.to("body", {
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 30),
+                            //  k.to(".laptop_anim_inner", {
+                            //     duration: 20,
+                            //     ease: "power3.inOut"
+                            // }, 20),
+                            k.to(".laptop_anim_upper_inner_third_subhead", {
+                                duration: 40,
+                                ease: "power3.inOut"
+                            }, 30);
                         var j = _.p8.timeline({
                             id: "aspects_second_l",
                             scrollTrigger: {
